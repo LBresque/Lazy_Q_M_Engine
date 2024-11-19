@@ -3,7 +3,6 @@
 """
 Created on Mon Aug 19 17:07:55 2024
 
-@author: Léa Bresque
 """
 #Info
 #code to obtain the red and blue contour plots in Fig S8 

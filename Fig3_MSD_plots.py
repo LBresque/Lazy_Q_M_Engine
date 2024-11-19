@@ -6,14 +6,14 @@ Created on Thu Sep 19 15:22:34 2024
 @author: Léa Bresque
 """
 
-#%%%% Information 
+#%%%%% Information 
 
 #Code to plot the Anomalous diffusion exponent
 
 #Fig. 3 of the main text:  pj= 0.4
 #Fig. S4 of the Supplementary Material:  pj= 0.2
 
-#%%%%
+#%%%%%
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import colors

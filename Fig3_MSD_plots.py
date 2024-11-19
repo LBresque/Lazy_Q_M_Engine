@@ -6,7 +6,7 @@ Created on Thu Sep 19 15:22:34 2024
 @author: Léa Bresque
 """
 
-#%%%% Info 
+#%%%% Information 
 
 #Code to plot the Anomalous diffusion exponent
 
